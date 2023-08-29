@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jQuery3.7.0" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="jQuery" />
+      <option name="frameworkVersion" value="3.7.0" />
+    </properties>
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/myLibraries/jquery-3.7.0.js" />
+    </CLASSES>
+    <DOCUMENTATION>
+      <root url="http://api.jquery.com" />
+    </DOCUMENTATION>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
